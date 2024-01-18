@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Luky1982
-- 👀 I’m interested in ...
+- 👀 I’m interested in Java, Spring Boot
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate in some interresting (beginners) project
+- 💞️ I’m looking to collaborate in some interresting projects
 - 📫 How to reach me ...
 
 <!---
