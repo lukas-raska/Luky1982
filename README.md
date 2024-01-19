@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Luky1982
+- 👋 Hi, I’m @Lukas
 - 👀 I’m interested in Java, Spring Boot
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate in some interresting projects
